@@ -1,0 +1,19 @@
+{
+    "Country": {
+        "India": {
+            "Delhi": {
+                "Population": 19000000
+            }
+        },
+        "USA": {
+            "Chicago": {
+                "Population": 2920000
+            }
+        },
+        "SriLanka": {
+            "Colombo": {
+                "Population": 5600000
+            }
+        }
+    }
+}
